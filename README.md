@@ -59,8 +59,8 @@
 
 - 1.0 - [tuz](https://en.wikipedia.org/wiki/Tux_(mascot)#Tuz_2009)
 - 2.0 - [hexley](http://hexley.com)
-- 3.0 [puffy](https://en.wikipedia.org/wiki/OpenBSD#Songs_and_artwork)
-- 4.0 - [larry](https://wiki.gentoo.org/wiki/Larry_the_cow)
-- 5.0 - [glenda](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
-- 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow)
-- 7.0 [freedo](https://en.wikipedia.org/wiki/Linux-libre)
+- 3.0 [puffy](https://en.wikipedia.org/wiki/OpenBSD#Songs_and_artwork) (25-06-05)
+- 4.0 - [larry](https://wiki.gentoo.org/wiki/Larry_the_cow) (25-06-15)
+- 5.0 - [glenda](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) (25-06-20)
+- 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow) (25-06-25)
+- 7.0 [freedo](https://en.wikipedia.org/wiki/Linux-libre) (25-07-05)

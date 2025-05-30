@@ -64,3 +64,10 @@
 - 5.0 - [glenda](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) (25-06-20)
 - 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow) (25-06-25)
 - 7.0 [freedo](https://en.wikipedia.org/wiki/Linux-libre) (25-07-05)
+
+# Related/Similar Projects
+
+- [chocolatey](https://github.com/chocolatey/choco)
+- [ubi](https://github.com/houseabsolute/ubi)
+- [gpm](https://github.com/aerys/gpm)
+- [spine](https://github.com/plyght/spine)

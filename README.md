@@ -18,7 +18,7 @@
 - getting in offical repos
 - allat for now
 
-# Next Point Release Goals
+# 3.0 "puffy" goals
 
 - autotools support
 - binary tracking with hash for remove
@@ -26,6 +26,21 @@
 - remove function overhaul
 - customizable build (wlsroots without xwayland)
 - general bug fixes and patches
+
+# 4.0 "larry" goals
+
+- nimble and stack support
+- improved dependency handling
+- bulk build and install
+- improved appearence for things like search
+- cargo.toml to radon.json utility
+
+# 5.0 "glenda" goals
+
+- cmake/makefile into radon.json utility
+- tui
+- windows and macos support
+- rpmfusion xbps-src and aur packages
 
 # Installation
 

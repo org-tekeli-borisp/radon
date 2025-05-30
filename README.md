@@ -55,4 +55,11 @@
 # Misc
 
 - [CONTRIBUTING.md](CONTRIBUTING.md)
--  I am not responsible for bricked devices, dead HDDs, or thermonuclear war.
+# Naming Scheme
+
+- 1.0 - [tuz](https://en.wikipedia.org/wiki/Tux_(mascot)#Tuz_2009)
+- 2.0 - [hexley](http://hexley.com)
+- 3.0 [puffy](https://en.wikipedia.org/wiki/OpenBSD#Songs_and_artwork)
+- 4.0 - [larry](https://wiki.gentoo.org/wiki/Larry_the_cow)
+- 5.0 - [madobe](https://en.wikipedia.org/wiki/OS-tan)
+- 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow)

@@ -61,5 +61,6 @@
 - 2.0 - [hexley](http://hexley.com)
 - 3.0 [puffy](https://en.wikipedia.org/wiki/OpenBSD#Songs_and_artwork)
 - 4.0 - [larry](https://wiki.gentoo.org/wiki/Larry_the_cow)
-- 5.0 - [madobe](https://en.wikipedia.org/wiki/OS-tan)
+- 5.0 - [glenda](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 - 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow)
+- 7.0 [freedo](https://en.wikipedia.org/wiki/Linux-libre)

@@ -47,6 +47,8 @@
 - `git clone https://github.com/tungstencube-git/radon`
 - `cd radon`
 - `cargo build --release`
+- Dependencies - Rust, Cargo, Make (Optional), CMake (Optional), Ninja (Optional), Meson (Optional)
+
 
 # Commands
 

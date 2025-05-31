@@ -24,29 +24,16 @@ pub enum Commands {
         patches: Option<PathBuf>,
     },
     Remove {
-        #[command(subcommand)]
-        target: RemoveTarget,
+        package: String,
     },
     Search {
         query: String,
     },
     List,
     Upgrade {
-        #[command(subcommand)]
-        target: UpgradeTarget,
+        #[arg(long)]
+        all: bool,
+        #[arg(long)]
+        package: Option<String>,
     },
 }
-
-#[derive(Debug, clap::Subcommand)]
-pub enum RemoveTarget {
-    Package { package: String },
-    Cache,
-}
-
-#[derive(Debug, clap::Subcommand)]
-pub enum UpgradeTarget {
-    All,
-    Package { package: String },
-    SelfUpgrade,
-}
-

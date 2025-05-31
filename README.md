@@ -24,7 +24,6 @@
 - binary tracking with hash for remove
 - radon.json dependency file
 - remove function overhaul
-- customizable build (wlsroots without xwayland)
 - general bug fixes and patches
 
 # 4.0 "larry" goals
@@ -38,9 +37,8 @@
 # 5.0 "glenda" goals
 
 - cmake/makefile into radon.json utility
-- tui
-- windows and macos support
 - rpmfusion xbps-src and aur packages
+- customizable build (wlsroots without xwayland)
 
 # Installation
 
@@ -80,8 +78,8 @@
 - 3.0 [puffy](https://en.wikipedia.org/wiki/OpenBSD#Songs_and_artwork) (25-06-05)
 - 4.0 - [larry](https://wiki.gentoo.org/wiki/Larry_the_cow) (25-06-15)
 - 5.0 - [glenda](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) (25-06-20)
-- 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow) (25-06-25)
-- 7.0 [freedo](https://en.wikipedia.org/wiki/Linux-libre) (25-07-05)
+- 6.0 [clarus](https://en.wikipedia.org/wiki/Dogcow) 
+- 7.0 [freedo](https://en.wikipedia.org/wiki/Linux-libre) 
 
 # Related/Similar Projects
 
